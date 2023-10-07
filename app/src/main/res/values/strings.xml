@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">prueba N°2 Miguel Angel Iturra</string>
+    <string name="textView">Laboratorio</string>
+    <string name="textView2">Rut</string>
+    <string name="textView3">Nombre</string>
+    <string name="textView4">Fecha</string>
+    <string name="textView5">Hora</string>
+    <string name="textView6">Descripcion</string>
+    <string name="button">Grabar</string>
+
+
+
+</resources>
